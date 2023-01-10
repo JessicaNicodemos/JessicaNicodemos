@@ -1,6 +1,11 @@
-# Olá! Eu sou a Jéssica Nicodemos :blush:
+# Sobre mim! :blush:
 
-:computer: Quality Assurance (QA) | JAVA
+Oi, Me chamo Jéssica! :smile:
+
+Atualmente estou em transição de carreira, buscando uma oportunidade para QA. 
+Mas meu contato com a tecnologia já faz bastante tempo, há mais de 10 quando fazia meu ensino médio técnico em informática, onde vi um pouco de Java, HTML, CSS.
+
+:computer: Hoje meu foco de estudo é em JAVA e conceitos e fundamentos de Quality Assurance (QA), além de testes automatizados.
 
 - :books: Apaixonada por livros
 - :boy: Mãe do Theo e de 5 gatos
