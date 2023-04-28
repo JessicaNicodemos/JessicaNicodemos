@@ -1,11 +1,10 @@
 # Sobre mim! :blush:
 
-Oi, Me chamo Jéssica! :smile:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jéssica+Nicodemos;)](https://git.io/typing-svg)
 
-Atualmente estou em transição de carreira, buscando uma oportunidade para QA. 
+:computer: Atualmente estou em transição de carreira, buscando uma oportunidade para Desenvolvedora Front-end. 
 Mas meu contato com a tecnologia já faz bastante tempo, há mais de 10 quando fazia meu ensino médio técnico em informática, onde vi um pouco de Java, HTML, CSS.
 
-:computer: Hoje meu foco de estudo é em JAVA e conceitos e fundamentos de Quality Assurance (QA), além de testes automatizados.
 
 - :books: Apaixonada por livros
 - :boy: Mãe do Theo e de 5 gatos
@@ -16,15 +15,13 @@ Encontre-me aqui! :arrow_down:
  <a href="https://www.linkedin.com/in/j%C3%A9ssica-nicodemos-de-melo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>                                                         <a href = "mailto:jessicanicodemos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jessica-Java" height="40" width="50" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Jessica-selenium height="30" width="30" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Jessica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jessica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JEssica-js" height="30" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+### Skills
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
   
   ##
   
