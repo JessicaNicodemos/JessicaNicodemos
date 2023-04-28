@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jéssica+Nicodemos;)](https://git.io/typing-svg)
 
 :computer: Atualmente estou em transição de carreira, buscando uma oportunidade para Desenvolvedora Front-end. 
-Mas meu contato com a tecnologia já faz bastante tempo, há mais de 10 quando fazia meu ensino médio técnico em informática, onde vi um pouco de Java, HTML, CSS.
+Mas meu contato com a tecnologia já faz bastante tempo, há mais de 10 anos quando fazia meu ensino médio técnico em informática, onde vi um pouco de Java, HTML, CSS.
 
 
 - :books: Apaixonada por livros
